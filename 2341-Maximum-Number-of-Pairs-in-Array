@@ -1,0 +1,13 @@
+class Solution:
+    def numberOfPairs(self, nums: list[int]) -> list[int]:
+        pairs=0
+        i=0
+        while i<len(nums):
+            j=i+1
+            while j<len(nums):
+                if nums[i]==nums[j]:
+                    pairs+=1
+                    nums.pop(i)
+                    nums.pop(j)
+                    i=-1
+                    break
