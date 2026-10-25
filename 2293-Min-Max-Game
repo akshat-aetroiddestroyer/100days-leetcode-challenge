@@ -1,0 +1,13 @@
+class Solution:
+    def minMaxGame(self, nums: list[int]) -> int:
+        while len(nums)>1:
+            new=[]
+            for i in range(len(nums)//2):
+                a=2*i
+                b=2*i+1
+                if len(new)%2==0:
+                    new.append(min(nums[a],nums[b]))
+                else:
+                    new.append(max(nums[a],nums[b]))
+            nums=new
+        return nums[0]
