@@ -1,0 +1,11 @@
+# Problem: distributing candies
+# Platform: LeetCode
+# Difficulty: Easy
+# Topic: Array, Hash Map
+class Solution:
+    def distributeCandies(self, candyType: list[int]) -> int:
+        n=len(candyType)
+        maxeat=n//2
+        diffrent=set(candyType)
+        diffrentCount=len(diffrent)
+        return min(diffrentCount , maxeat)
