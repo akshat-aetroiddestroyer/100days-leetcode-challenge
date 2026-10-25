@@ -1,0 +1,14 @@
+# Problem: palindrome number
+# Platform: LeetCode
+# Difficulty: Easy
+# Topic: Array, Hash Map
+temp=x
+        rev=0
+        while x>0:
+            last=x%10
+            rev=rev*10+last
+            x=x//10
+        if rev==temp:
+            return True
+        else:
+            return False
