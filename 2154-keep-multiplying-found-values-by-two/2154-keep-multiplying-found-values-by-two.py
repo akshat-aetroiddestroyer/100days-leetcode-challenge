@@ -1,13 +1,11 @@
 class Solution:
     def findFinalValue(self, nums: list[int], original: int) -> int:
-        while True:
-            found=False
-            for i in nums:
-                if original==i:
+        n=len(nums)
+        while n>0:
+            if original in nums:
                     original=original*2
-                    found=True
+            else:
                     break
-            if found==False:
-                break
+            
         return original
             
