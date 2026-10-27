@@ -115,6 +115,7 @@ I'll update these numbers as I make progress.
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2293-min-max-game](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2293-min-max-game) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
