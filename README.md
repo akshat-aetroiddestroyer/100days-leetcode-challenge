@@ -112,6 +112,7 @@ I'll update these numbers as I make progress.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -155,4 +156,12 @@ I'll update these numbers as I make progress.
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
