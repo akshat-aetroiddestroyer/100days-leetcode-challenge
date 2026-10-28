@@ -113,6 +113,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -123,6 +124,7 @@ I'll update these numbers as I make progress.
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -134,6 +136,7 @@ I'll update these numbers as I make progress.
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -150,6 +153,7 @@ I'll update these numbers as I make progress.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
