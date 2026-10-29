@@ -168,4 +168,16 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
