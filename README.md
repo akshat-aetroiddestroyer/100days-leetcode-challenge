@@ -124,6 +124,7 @@ I'll update these numbers as I make progress.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -171,6 +172,7 @@ I'll update these numbers as I make progress.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
@@ -180,4 +182,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0010-regular-expression-matching) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
