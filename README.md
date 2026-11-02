@@ -113,6 +113,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -174,6 +175,7 @@ I'll update these numbers as I make progress.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +188,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
