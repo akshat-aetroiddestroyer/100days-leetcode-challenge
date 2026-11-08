@@ -205,4 +205,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
