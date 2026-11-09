@@ -116,6 +116,7 @@ I'll update these numbers as I make progress.
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [1732-find-the-highest-altitude](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1732-find-the-highest-altitude) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -137,12 +138,14 @@ I'll update these numbers as I make progress.
 ## Greedy
 |  |
 | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -216,4 +219,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
