@@ -116,6 +116,7 @@ I'll update these numbers as I make progress.
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [1732-find-the-highest-altitude](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1732-find-the-highest-altitude) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -215,6 +216,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0007-reverse-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,4 +225,16 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
