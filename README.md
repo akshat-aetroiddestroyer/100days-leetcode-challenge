@@ -113,6 +113,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [1732-find-the-highest-altitude](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1732-find-the-highest-altitude) |
@@ -139,6 +140,7 @@ I'll update these numbers as I make progress.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0011-container-with-most-water) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -208,6 +210,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0011-container-with-most-water) |
 ## Manacher
 |  |
 | ------- |
