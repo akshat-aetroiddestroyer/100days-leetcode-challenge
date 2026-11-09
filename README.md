@@ -115,6 +115,7 @@ I'll update these numbers as I make progress.
 | [0004-median-of-two-sorted-arrays](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
+| [2057-smallest-index-with-equal-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
