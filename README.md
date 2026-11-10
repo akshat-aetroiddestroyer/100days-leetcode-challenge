@@ -132,6 +132,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -188,6 +189,7 @@ I'll update these numbers as I make progress.
 | [0006-zigzag-conversion](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -219,6 +221,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
