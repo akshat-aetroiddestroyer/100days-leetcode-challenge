@@ -129,6 +129,7 @@ I'll update these numbers as I make progress.
 | [2293-min-max-game](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2293-min-max-game) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2399-check-distances-between-same-letters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2399-check-distances-between-same-letters) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ I'll update these numbers as I make progress.
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2399-check-distances-between-same-letters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2399-check-distances-between-same-letters) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +198,7 @@ I'll update these numbers as I make progress.
 | [0013-roman-to-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [2315-count-asterisks](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2315-count-asterisks) |
+| [2399-check-distances-between-same-letters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2399-check-distances-between-same-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
