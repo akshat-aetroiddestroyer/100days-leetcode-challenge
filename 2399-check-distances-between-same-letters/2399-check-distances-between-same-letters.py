@@ -1,19 +1,9 @@
 class Solution:
     def checkDistances(self, s: str, distance: list[int]) -> bool:
-        seen_chars = set()
-        for i in range(len(s)):
-            if s[i] in seen_chars:
-                continue
-                
-            alphabet_index = ord(s[i]) - ord('a')
-            required_distance = distance[alphabet_index]
-            
-            if i + required_distance + 1 >= len(s):
+        a = ord('a')
+        for c in s:
+            idx1 = s.find(c)
+            idx2 = s.find(c,idx1+1)
+            if distance[ord(c)-a] != idx2 - idx1 - 1:
                 return False
-                
-            if s[i + required_distance + 1] != s[i]:
-                return False
-                
-            seen_chars.add(s[i])
-            
         return True
