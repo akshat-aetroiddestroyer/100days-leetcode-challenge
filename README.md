@@ -195,6 +195,7 @@ I'll update these numbers as I make progress.
 | [0012-integer-to-roman](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
+| [2315-count-asterisks](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2315-count-asterisks) |
 ## Dynamic Programming
 |  |
 | ------- |
