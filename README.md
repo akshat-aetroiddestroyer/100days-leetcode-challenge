@@ -168,6 +168,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
@@ -236,6 +237,7 @@ I'll update these numbers as I make progress.
 | [0012-integer-to-roman](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
 |  |
 | ------- |
