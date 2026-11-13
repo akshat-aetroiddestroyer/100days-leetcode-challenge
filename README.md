@@ -200,6 +200,7 @@ I'll update these numbers as I make progress.
 | [0012-integer-to-roman](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
+| [2299-strong-password-checker-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2315-count-asterisks) |
 | [2399-check-distances-between-same-letters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2399-check-distances-between-same-letters) |
 ## Dynamic Programming
