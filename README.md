@@ -229,6 +229,7 @@ I'll update these numbers as I make progress.
 | [0011-container-with-most-water](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Manacher
 |  |
 | ------- |
@@ -265,4 +266,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
