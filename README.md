@@ -202,6 +202,7 @@ I'll update these numbers as I make progress.
 | [0013-roman-to-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [2299-strong-password-checker-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2315-count-asterisks) |
 | [2399-check-distances-between-same-letters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2399-check-distances-between-same-letters) |
@@ -270,4 +271,12 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
