@@ -117,6 +117,7 @@ I'll update these numbers as I make progress.
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [1732-find-the-highest-altitude](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -236,6 +237,7 @@ I'll update these numbers as I make progress.
 | [0015-3sum](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Manacher
 |  |
 | ------- |
