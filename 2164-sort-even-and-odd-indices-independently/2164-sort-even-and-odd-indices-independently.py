@@ -8,13 +8,13 @@ class Solution:
                 even.append(nums[i])
             else:
                 odd.append(nums[i])
-        even.sort(reverse=True) 
+        even.sort(reverse=True)
         odd.sort()
         for i in range(n):
-            if i % 2 == 0:
-                nums[i] = even.pop()
+            if i%2==0:
+                nums[i]=even.pop()
             else:
-                nums[i] = odd.pop()
+                nums[i]=odd.pop()
         return nums
 
         
