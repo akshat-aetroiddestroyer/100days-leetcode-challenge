@@ -144,6 +144,7 @@ I'll update these numbers as I make progress.
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2325-decode-the-message](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2399-check-distances-between-same-letters) |
@@ -212,6 +213,7 @@ I'll update these numbers as I make progress.
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2325-decode-the-message) |
 | [2399-check-distances-between-same-letters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2399-check-distances-between-same-letters) |
 ## Dynamic Programming
 |  |
