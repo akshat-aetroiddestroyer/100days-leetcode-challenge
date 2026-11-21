@@ -210,6 +210,7 @@ I'll update these numbers as I make progress.
 | [0014-longest-common-prefix](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2315-count-asterisks) |
@@ -245,6 +246,7 @@ I'll update these numbers as I make progress.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Manacher
 |  |
 | ------- |
@@ -305,4 +307,20 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
