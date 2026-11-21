@@ -155,6 +155,7 @@ I'll update these numbers as I make progress.
 | [0011-container-with-most-water](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0011-container-with-most-water) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
@@ -213,6 +214,7 @@ I'll update these numbers as I make progress.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2299-strong-password-checker-ii) |
@@ -326,4 +328,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
