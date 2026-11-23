@@ -140,6 +140,7 @@ I'll update these numbers as I make progress.
 | [0012-integer-to-roman](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -214,6 +215,7 @@ I'll update these numbers as I make progress.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -237,6 +239,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
