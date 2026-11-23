@@ -308,6 +308,7 @@ I'll update these numbers as I make progress.
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -348,4 +349,16 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
