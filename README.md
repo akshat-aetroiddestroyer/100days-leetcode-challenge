@@ -120,6 +120,7 @@ I'll update these numbers as I make progress.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [1732-find-the-highest-altitude](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -164,6 +165,7 @@ I'll update these numbers as I make progress.
 | ------- |
 | [0015-3sum](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -256,6 +258,7 @@ I'll update these numbers as I make progress.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 ## Manacher
 |  |
 | ------- |
