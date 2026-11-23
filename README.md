@@ -119,6 +119,7 @@ I'll update these numbers as I make progress.
 | [0016-3sum-closest](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0027-remove-element) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [1732-find-the-highest-altitude](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -303,6 +304,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -335,4 +337,12 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
