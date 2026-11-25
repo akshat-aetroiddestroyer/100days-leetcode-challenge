@@ -228,6 +228,7 @@ I'll update these numbers as I make progress.
 | [0076-minimum-window-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0290-word-pattern) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2278-percentage-of-letter-in-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2299-strong-password-checker-ii) |
