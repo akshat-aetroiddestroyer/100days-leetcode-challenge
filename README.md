@@ -146,6 +146,7 @@ I'll update these numbers as I make progress.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -170,6 +171,7 @@ I'll update these numbers as I make progress.
 | [0015-3sum](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -191,6 +193,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
@@ -227,6 +230,7 @@ I'll update these numbers as I make progress.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0389-find-the-difference) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
