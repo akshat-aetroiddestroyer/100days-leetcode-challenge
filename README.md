@@ -120,6 +120,7 @@ I'll update these numbers as I make progress.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0645-set-mismatch) |
@@ -185,6 +186,7 @@ I'll update these numbers as I make progress.
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/2293-min-max-game) |
@@ -375,4 +377,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
