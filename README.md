@@ -311,6 +311,7 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0052-n-queens-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0052-n-queens-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -381,4 +382,8 @@ I'll update these numbers as I make progress.
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/akshat-aetroiddestroyer/100days-leetcode-challenge/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
